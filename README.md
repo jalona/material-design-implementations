@@ -14,10 +14,13 @@ Name [code][-code] - [docs][-docs] - [examples][-examples]
 
 ## Single aspects
 
-### Animation, icons
+### Animation
 
-- SVG Morpheus [code][svgmorpheus-code] - [docs][svgmorpheus-docs] - [examples][svgmorpheus-examples]
+- SVG Morpheus (morphing icons) [code][anim-svgmorpheus-code] - [docs][anim-svgmorpheus-docs] - [examples][anim-svgmorpheus-examples]
 
+### Icons
+
+- Google MD Icons [code][icons-google-code] - [docs][icons-google-docs] - [examples][icons-google-examples]
 <!--
 References
 -->
@@ -44,8 +47,14 @@ References
 [react-docs]: http://callemall.github.io/material-ui/#/
 [react-examples]: http://callemall.github.io/material-ui/#/components/buttons
 
-[svgmorpheus-code]: https://github.com/alexk111/SVG-Morpheus/
-[svgmorpheus-docs]: https://github.com/alexk111/SVG-Morpheus/blob/master/README.md
-[svgmorpheus-examples]: http://alexk111.github.io/SVG-Morpheus/
+<!-- single aspects -->
+
+[icons-google-code]: https://github.com/google/material-design-icons
+[icons-google-docs]: https://github.com/google/material-design-icons
+[icons-google-examples]: https://github.com/google/material-design-icons
+
+[anim-svgmorpheus-code]: https://github.com/alexk111/SVG-Morpheus/
+[anim-svgmorpheus-docs]: https://github.com/alexk111/SVG-Morpheus/blob/master/README.md
+[anim-svgmorpheus-examples]: http://alexk111.github.io/SVG-Morpheus/
 
 Please mention any other project you are aware of under [issues](https://github.com/mpiccolino/implements-material/issues)
