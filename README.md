@@ -2,13 +2,13 @@
 
 ## Comprehensive
 
-- Android [code][android-code] - [docs][android-docs] - [examples][android-examples]
+- Android (Google) [code][android-code] - [docs][android-docs] - [examples][android-examples]
 - Angular [code][angular-code] - [docs][angular-docs] - [examples][angular-examples]
 - Bootstrap [code][bootstrap-code] - [docs][bootstrap-docs] - [examples][bootstrap-examples]
 - Meteor [code][meteor-code] - [examples][meteor-examples]
-- Polymer [code][polymer-code] - [docs][polymer-docs] - [examples][polymer-examples]
+- Polymer (Google) [code][polymer-code] - [docs][polymer-docs] - [examples][polymer-examples]
 - React [code][react-code] - [docs][react-docs] - [examples][react-examples]
-- Web Starter Kit [code][webstarterkit-code]
+- Web Starter Kit (Google) [code][webstarterkit-code]
 
 <!-- template
 Name [code][-code] - [docs][-docs] - [examples][-examples]
