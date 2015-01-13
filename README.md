@@ -28,6 +28,10 @@ Name [code][-code] - [docs][-docs] - [examples][-examples]
 
 - Icons (Google) [code][icons-google-code]
 
+### Snackbars and toasters
+
+- SnackbarJS [code][snackbarjs-code] [examples][snackbarjs-examples]
+
 <!--
 References
 -->
@@ -68,5 +72,8 @@ References
 [anim-svgmorpheus-code]: https://github.com/alexk111/SVG-Morpheus/
 [anim-svgmorpheus-docs]: https://github.com/alexk111/SVG-Morpheus/blob/master/README.md
 [anim-svgmorpheus-examples]: http://alexk111.github.io/SVG-Morpheus/
+
+[snackbar-snackbarjs-code]: https://github.com/FezVrasta/snackbarjs
+[snackbar-snackbarjs-examples]: http://fezvrasta.github.io/snackbarjs/
 
 Please mention any other project you are aware of under [issues](https://github.com/mpiccolino/implements-material/issues)
