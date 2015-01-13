@@ -22,7 +22,7 @@ Name [code][-code] - [docs][-docs] - [examples][-examples]
 
 ### Icons
 
-- Google MD Icons [code][icons-google-code]
+- Icons (Google) [code][icons-google-code]
 
 <!--
 References
