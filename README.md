@@ -21,7 +21,7 @@ Name [code][-code] - [docs][-docs] - [examples][-examples]
 
 ### Icons
 
-- Google MD Icons [code][icons-google-code] - [docs][icons-google-docs] - [examples][icons-google-examples]
+- Google MD Icons [code][icons-google-code]
 
 <!--
 References
