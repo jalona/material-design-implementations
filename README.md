@@ -3,7 +3,9 @@
 ## Comprehensive
 
 - Android [code][android-code] - [docs][android-docs] - [examples][android-examples]
+- AngularJS [code][angular-code] - [docs][angular-docs] - [examples][angular-examples]
 - Polymer [code][polymer-code] - [docs][polymer-docs] - [examples][polymer-examples]
+// - Name [code][-code] - [docs][-docs] - [examples][-examples]
 
 ## Single aspects
 
@@ -16,6 +18,14 @@
 [android-docs]: https://developer.android.com/training/material/index.html
 [android-examples]: http://developer.android.com/samples/index.html
 
+[angular-code]: https://github.com/angular/material
+[angular-docs]: https://material.angularjs.org/#/
+[angular-examples]: https://material.angularjs.org/#/demo/material.components.bottomSheet
+
 [polymer-code]: https://www.polymer-project.org/docs/start/getting-the-code.html
 [polymer-docs]: https://www.polymer-project.org/docs/polymer/polymer.html
 [polymer-examples]: https://www.polymer-project.org/#apps
+
+// [-code]:
+// [-docs]:
+// [-examples]:
