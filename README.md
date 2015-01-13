@@ -14,6 +14,9 @@ Name [code][-code] - [docs][-docs] - [examples][-examples]
 
 ## Single aspects
 
+### Animation, icons
+
+- SVG Morpheus [code][svgmorpheus-code] - [docs][svgmorpheus-docs] - [examples][svgmorpheus-examples]
 
 <!--
 References
@@ -40,5 +43,9 @@ References
 [react-code]: https://github.com/callemall/material-ui
 [react-docs]: http://callemall.github.io/material-ui/#/
 [react-examples]: http://callemall.github.io/material-ui/#/components/buttons
+
+[svgmorpheus-code]: https://github.com/alexk111/SVG-Morpheus/
+[svgmorpheus-docs]: https://github.com/alexk111/SVG-Morpheus/blob/master/README.md
+[svgmorpheus-examples]: http://alexk111.github.io/SVG-Morpheus/
 
 Please mention any other project you are aware of under [issues](https://github.com/mpiccolino/implements-material/issues)
