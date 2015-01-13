@@ -5,6 +5,7 @@
 - Android [code][android-code] - [docs][android-docs] - [examples][android-examples]
 - AngularJS [code][angular-code] - [docs][angular-docs] - [examples][angular-examples]
 - Bootstrap [code][bootstrap-code] - [docs][bootstrap-docs] - [examples][bootstrap-examples]
+- Meteor [code][meteor-code] - [examples][meteor-examples]
 - Polymer [code][polymer-code] - [docs][polymer-docs] - [examples][polymer-examples]
 - React [code][react-code] - [docs][react-docs] - [examples][react-examples]
 - Web Starter Kit [code][webstarterkit-code]
@@ -40,6 +41,9 @@ References
 [bootstrap-code]: https://github.com/FezVrasta/bootstrap-material-design
 [bootstrap-docs]: http://fezvrasta.github.io/bootstrap-material-design
 [bootstrap-examples]: http://fezvrasta.github.io/bootstrap-material-design/bootstrap-elements.html
+
+[meteor-code]: https://github.com/npvn/meteor-material-design
+[meteor-examples]: http://material.meteor.com/
 
 [polymer-code]: https://www.polymer-project.org/docs/start/getting-the-code.html
 [polymer-docs]: https://www.polymer-project.org/docs/polymer/polymer.html
