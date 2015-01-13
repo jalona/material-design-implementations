@@ -6,6 +6,7 @@
 - AngularJS [code][angular-code] - [docs][angular-docs] - [examples][angular-examples]
 - Bootstrap [code][bootstrap-code] - [docs][bootstrap-docs] - [examples][bootstrap-examples]
 - Polymer [code][polymer-code] - [docs][polymer-docs] - [examples][polymer-examples]
+- React [code][react-code] - [docs][react-docs] - [examples][react-examples]
 
 <!-- template
 Name [code][-code] - [docs][-docs] - [examples][-examples]
@@ -35,6 +36,10 @@ References
 [polymer-code]: https://www.polymer-project.org/docs/start/getting-the-code.html
 [polymer-docs]: https://www.polymer-project.org/docs/polymer/polymer.html
 [polymer-examples]: https://www.polymer-project.org/#apps
+
+[react-code]: https://github.com/callemall/material-ui
+[react-docs]: http://callemall.github.io/material-ui/#/
+[react-examples]: http://callemall.github.io/material-ui/#/components/buttons
 
 <!-- template
 [-code]:
