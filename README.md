@@ -41,9 +41,10 @@ References
 [react-docs]: http://callemall.github.io/material-ui/#/
 [react-examples]: http://callemall.github.io/material-ui/#/components/buttons
 
-<!--
+<!-- template
 [-code]:
 [-docs]:
 [-examples]:
 -->
 
+Please signal any other project you are aware of under [issues](https://github.com/mpiccolino/implements-material/issues)
