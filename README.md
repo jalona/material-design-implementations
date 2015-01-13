@@ -30,7 +30,7 @@ Name [code][-code] - [docs][-docs] - [examples][-examples]
 
 ### Snackbars and toasters
 
-- SnackbarJS [code][snackbarjs-code] [examples][snackbarjs-examples]
+- SnackbarJS [code][snackbar-snackbarjs-code] [examples][snackbar-snackbarjs-examples]
 
 <!--
 References
