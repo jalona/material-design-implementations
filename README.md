@@ -28,7 +28,7 @@ Name [code][-code] - [docs][-docs] - [examples][-examples]
 
 - Icons (Google) [code][icons-google-code]
 
-### Snackbars and toasters
+### Snackbars and toasts
 
 - SnackbarJS [code][snackbar-snackbarjs-code] - [examples][snackbar-snackbarjs-examples]
 
