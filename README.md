@@ -18,7 +18,9 @@ Name [code][-code] - [docs][-docs] - [examples][-examples]
 
 ### Animation
 
-- SVG Morpheus (morphing icons) [code][anim-svgmorpheus-code] - [docs][anim-svgmorpheus-docs] - [examples][anim-svgmorpheus-examples]
+#### Morphing icons
+
+- SVG Morpheus [code][anim-svgmorpheus-code] - [docs][anim-svgmorpheus-docs] - [examples][anim-svgmorpheus-examples]
 
 ### Icons
 
