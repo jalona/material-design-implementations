@@ -24,6 +24,10 @@ Name [code][-code] - [docs][-docs] - [examples][-examples]
 
 ### Animation
 
+#### Interaction
+
+Material interaction [demo][anim-interact-demo]
+
 #### Morphing icons
 
 - SVG Morpheus [code][anim-svgmorpheus-code] - [docs][anim-svgmorpheus-docs] - [examples][anim-svgmorpheus-examples]
@@ -76,6 +80,8 @@ References
 [anim-svgmorpheus-code]: https://github.com/alexk111/SVG-Morpheus/
 [anim-svgmorpheus-docs]: https://github.com/alexk111/SVG-Morpheus/blob/master/README.md
 [anim-svgmorpheus-examples]: http://alexk111.github.io/SVG-Morpheus/
+
+[anim-interact-demo]: http://material.cmiscm.com/
 
 [snackbar-snackbarjs-code]: https://github.com/FezVrasta/snackbarjs
 [snackbar-snackbarjs-examples]: http://fezvrasta.github.io/snackbarjs/
