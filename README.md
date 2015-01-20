@@ -18,6 +18,10 @@ Name [code][-code] - [docs][-docs] - [examples][-examples]
 
 ## Single aspects
 
+### Buttons
+
+- Animated Floating Action Button (Android) [code][fab-android-code]
+
 ### Animation
 
 #### Morphing icons
@@ -75,5 +79,7 @@ References
 
 [snackbar-snackbarjs-code]: https://github.com/FezVrasta/snackbarjs
 [snackbar-snackbarjs-examples]: http://fezvrasta.github.io/snackbarjs/
+
+[fab-android-code] https://github.com/makovkastar/FloatingActionButton
 
 Please mention any other project you are aware of under [issues](https://github.com/mpiccolino/implements-material/issues)
