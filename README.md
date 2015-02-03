@@ -66,7 +66,7 @@ References
 [polymer-docs]: https://www.polymer-project.org/docs/polymer/polymer.html
 [polymer-examples]: https://www.polymer-project.org/#apps
 
-[qtquick-code]: https://github.com/7ymekk/qml-material
+[qtquick-code]: https://github.com/papyros/qml-material
 
 [react-code]: https://github.com/callemall/material-ui
 [react-docs]: http://callemall.github.io/material-ui/#/
