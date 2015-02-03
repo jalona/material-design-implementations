@@ -92,4 +92,5 @@ References
 [fab-android-code]: https://github.com/makovkastar/FloatingActionButton
 
 Please mention any other project you are aware of under [issues](https://github.com/mpiccolino/implements-material/issues).
+
 If you want to contribute regularly ask me to be added as a maintainer.
