@@ -45,7 +45,7 @@ Material interaction [demo][anim-interact-demo]
 
 Please mention any other project you are aware of under [issues](https://github.com/mpiccolino/implements-material/issues).
 
-If you want to contribute regularly ask [@mpiccolino] to be added as a contributor.
+If you want to contribute regularly ask [@mpiccolino](https://github.com/mpiccolino) to be added as a contributor.
 
 
 <!--
