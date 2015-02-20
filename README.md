@@ -9,7 +9,8 @@
 - Bootstrap [code][bootstrap-code] - [docs][bootstrap-docs] - [examples][bootstrap-examples]
 - Meteor [code][meteor-code] - [examples][meteor-examples]
 - Polymer (Google) [code][polymer-code] - [docs][polymer-docs] - [examples][polymer-examples]
-- QtQuick [code][qtquick-code]
+- Qt Quick (QML Material) [code][qtquick-qmlmaterial-code]
+- Qt Quick (Material) [code][qtquick-material-code]
 - React [code][react-code] - [docs][react-docs] - [examples][react-examples]
 - Web Starter Kit (Google) [code][webstarterkit-code]
 
@@ -73,7 +74,8 @@ References
 [polymer-docs]: https://www.polymer-project.org/docs/polymer/polymer.html
 [polymer-examples]: https://www.polymer-project.org/#apps
 
-[qtquick-code]: https://github.com/papyros/qml-material
+[qtquick-qmlmaterial-code]: https://github.com/papyros/qml-material
+[qtquick-material-code]: https://github.com/rschiang/material
 
 [react-code]: https://github.com/callemall/material-ui
 [react-docs]: http://callemall.github.io/material-ui/#/
