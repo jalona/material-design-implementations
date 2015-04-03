@@ -7,11 +7,13 @@
 - Android [code][android-code] - [docs][android-docs] - [examples][android-examples]
 - Angular [code][angular-code] - [docs][angular-docs] - [examples][angular-examples]
 - Bootstrap [code][bootstrap-code] - [docs][bootstrap-docs] - [examples][bootstrap-examples]
+- CSS (Essence) [code][essence-code] - [docs][essence-docs]
 - Meteor/Bootstrap [code][meteor-code] - [examples][meteor-examples]
 - Polymer [code][polymer-code] - [docs][polymer-docs] - [examples][polymer-examples]
-- Qt Quick (active) [code][qtquick-qmlmaterial-code]
+- Qt Quick (QML Material) [code][qtquick-qmlmaterial-code]
 - Qt Quick (hackathon) [code][qtquick-material-code]
 - React [code][react-code] - [docs][react-docs] - [examples][react-examples]
+- React (Essence) [code][essence-code] - [docs][essence-docs]
 - Web Starter Kit [code][webstarterkit-code]
 
 <!-- template
@@ -66,6 +68,9 @@ References
 [bootstrap-code]: https://github.com/FezVrasta/bootstrap-material-design
 [bootstrap-docs]: http://fezvrasta.github.io/bootstrap-material-design
 [bootstrap-examples]: http://fezvrasta.github.io/bootstrap-material-design/bootstrap-elements.html
+
+[essence-code]: https://github.com/PearlVentures/Essence
+[essence-docs]: http://essence.pearlhq.com/
 
 [meteor-code]: https://github.com/npvn/meteor-material-design
 [meteor-examples]: http://material.meteor.com/
