@@ -1,6 +1,6 @@
 # [Material Design][material-spec] implementations
 
-## Comprehensive
+## Full implementations
 
 (Your mileage may vary!)
 
