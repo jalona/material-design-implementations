@@ -10,7 +10,7 @@
 - CSS (Essence) [code][essence-code] - [docs][essence-docs]
 - Meteor/Bootstrap [code][meteor-code] - [examples][meteor-examples]
 - Polymer [code][polymer-code] - [docs][polymer-docs] - [examples][polymer-examples]
-- Qt Quick (QML Material) [code][qtquick-qmlmaterial-code]
+- Qt Quick (QML Material) [code][qtquick-qmlmaterial-code] - [docs][qtquick-qmlmaterial-docs]
 - Qt Quick (hackathon) [code][qtquick-material-code]
 - React [code][react-code] - [docs][react-docs] - [examples][react-examples]
 - React (Essence) [code][essence-code] - [docs][essence-docs]
@@ -80,6 +80,8 @@ References
 [polymer-examples]: https://www.polymer-project.org/#apps
 
 [qtquick-qmlmaterial-code]: https://github.com/papyros/qml-material
+[qtquick-qmlmaterial-docs]: http://papyros.io/qml-material/
+
 [qtquick-material-code]: https://github.com/rschiang/material
 
 [react-code]: https://github.com/callemall/material-ui
